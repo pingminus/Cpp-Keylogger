@@ -1,4 +1,5 @@
 # C++ Keylogger
+Windows exclusive!
 
 A simple keylogger written in C++ that captures keystrokes and logs them into a file. This project is intended for educational purposes only. Use responsibly and ensure compliance with applicable laws.
 
