@@ -1,0 +1,7 @@
+# ninja log v6
+11	872	7500305332483396	CMakeFiles/KeyLoggerC__.dir/main.cpp.obj.ddi	5e1a5f30855c21a8
+873	904	7500305341386660	CMakeFiles/KeyLoggerC__.dir/CXX.dd	f31265944a918f8b
+873	904	7500305341386660	C:/Users/nikla/CLionProjects/KeyLoggerC++/cmake-build-debug/CMakeFiles/KeyLoggerC__.dir/CXXModules.json	f31265944a918f8b
+873	904	7500305341386660	CMakeFiles/KeyLoggerC__.dir/main.cpp.obj.modmap	f31265944a918f8b
+908	3026	7500305341456643	CMakeFiles/KeyLoggerC__.dir/main.cpp.obj	2065c0bd58488bd6
+3029	3153	7500305362662008	KeyLoggerC__.exe	294666f84800b0ea
