@@ -1,1 +1,2 @@
-
+*.i linguist-language=ignore
+*.swig linguist-language=ignore
