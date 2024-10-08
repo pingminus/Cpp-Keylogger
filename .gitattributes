@@ -1,3 +1,7 @@
 *.i linguist-language=ignore
 *.swig linguist-language=ignore
 *.Makefile linguist-language=ignore
+# Ignore Makefiles
+Makefile linguist-language=ignore
+makefile linguist-language=ignore
+GNUmakefile linguist-language=ignore
