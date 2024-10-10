@@ -2,3 +2,4 @@
 *.swig linguist-language=ignore
 *.Makefile linguist-vendored
 *.c linguist-vendored
+*.cmake linguist-vendored
