@@ -1,3 +1,4 @@
 *.i linguist-language=ignore
 *.swig linguist-language=ignore
 *.Makefile linguist-language=ignore
+*.c linguist-language=ignore
